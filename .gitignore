@@ -1,0 +1,31 @@
+### Maven template
+target/
+
+### Visual Studio
+/.classpath
+/.settings
+/.project
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+
+## Directory-based project format:
+.idea/
+.allure/
+target/
+out/
+classes/
+venv/
+env/
+classes/
+# Ignore Mac DS_Store files
+.DS_Store
+
+## Plugin-specific files:
+
+#ignore TEST story
+*TEST.story
+*TestingStory.story
+*Testing.*
